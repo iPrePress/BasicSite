@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to iPrePress Pages
 
 You can use the [editor on GitHub](https://github.com/iPrePress/BasicSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
